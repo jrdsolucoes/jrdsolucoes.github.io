@@ -1781,32 +1781,6 @@ body {
 .cid-red8kmXQTy .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-redaEjdH7l {
-  background-image: url("../../../assets/images/03.jpg");
-}
-.cid-redaEjdH7l .icons-media-container {
-  display: flex;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  padding-top: 4rem;
-}
-.cid-redaEjdH7l .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
-}
-.cid-redaEjdH7l .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-redaEjdH7l .mbr-text {
-  color: #ffffff;
-}
-.cid-redaEjdH7l .card {
-  padding-bottom: 1.5rem;
-}
 .cid-redcAmxJFH {
   background-image: url("../../../assets/images/03.jpg");
 }
